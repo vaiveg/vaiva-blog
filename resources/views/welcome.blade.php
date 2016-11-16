@@ -8,7 +8,7 @@
 		    Welcome
 		</div>
 
-		@if (Auth::guest())
+		@if (!Auth::check())
 		    <div class="panel-body">
 			You can create your blog here! Please register or login.
 		    </div>

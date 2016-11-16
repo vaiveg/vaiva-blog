@@ -27,7 +27,7 @@
 			    <span class="icon-bar"></span>
 			</button>
 
-			<a class="navbar-brand" href="/posts">Simple Blog</a>
+			<a class="navbar-brand" href="/">Simple Blog</a>
 		    </div>
 
 		    <div id="navbar" class="navbar-collapse collapse">
